@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JarBytesClassLoader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JarBytesClassLoader_jar</output-path>
+    <root id="archive" name="JarBytesClassLoader.jar">
+      <element id="module-output" name="JarBytesClassLoader" />
+    </root>
+  </artifact>
+</component>
